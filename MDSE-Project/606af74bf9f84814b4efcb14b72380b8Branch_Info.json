@@ -1,8 +1,1 @@
-{
-    "branch_ID": "606af74bf9f84814b4efcb14b72380b8",
-    "pivot_ID": "3e13157cbfc1416ca3341d605c24f4f4",
-    "access_control": "private",
-    "branch_Pattern": "short",
-    "branch_Strategy": "full",
-    "Versions_ID": []
-}
+"{\n    \"branch_ID\": \"606af74bf9f84814b4efcb14b72380b8\",\n    \"pivot_ID\": \"3e13157cbfc1416ca3341d605c24f4f4\",\n    \"access_control\": \"private\",\n    \"branch_Pattern\": \"short\",\n    \"branch_Strategy\": \"full\",\n    \"Versions_ID\": [\n        {\n            \"0\": \"b82404468c7046dc977d08beea8ef180\"\n        }\n    ]\n}"
