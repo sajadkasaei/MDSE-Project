@@ -1,0 +1,10 @@
+{
+    "branch_ID": "fedbeb43b81b4d10bffa250c367372aa",
+    "pivot_ID": "e3aead4d8d4d403bb081e0834e4b1ba6",
+    "access_control": "private",
+    "branch_Pattern": "short",
+    "branch_Strategy": "full",
+    "Versions_ID": [
+        "fedbeb43b81b4d10bffa250c367372aa"
+    ]
+}
