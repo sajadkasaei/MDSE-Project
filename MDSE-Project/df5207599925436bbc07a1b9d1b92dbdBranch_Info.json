@@ -3,7 +3,7 @@
     "pivot_ID": "df5207599925436bbc07a1b9d1b92dbd",
     "access_control": "public",
     "branch_Pattern": "long",
-    "branch_Strategy": "full",
+    "branch_Scope": "full",
     "Versions_ID": [
         "df5207599925436bbc07a1b9d1b92dbd"
     ]
