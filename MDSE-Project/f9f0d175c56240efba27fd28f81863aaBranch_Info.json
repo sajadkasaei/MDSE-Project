@@ -1,7 +1,7 @@
 {
     "branch_ID": "f9f0d175c56240efba27fd28f81863aa",
     "pivot_ID": "df5207599925436bbc07a1b9d1b92dbd",
-    "access_control": "private",
+    "collaborators": "private",
     "branch_Pattern": "short",
     "branch_Scope": "full",
     "Versions_ID": [
