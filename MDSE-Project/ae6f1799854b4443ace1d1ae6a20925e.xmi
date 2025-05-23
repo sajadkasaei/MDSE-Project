@@ -3,4 +3,5 @@
   <father xmi:id="1029455e-b450-4696-8f12-92b4eeeee0b5" firstName="ali"/>
   <mother xmi:id="7dcd4ed0-8903-4781-9c6b-6b3fe131d056" firstName="fatemeh"/>
   <sons xmi:id="6b10babb-e0cd-4c73-a2ce-dd888aa1b9d3" firstName="sajad"/>
+  <daughters xmi:id="f96cddfd-a251-4747-a9c0-13ba55335615" firstName="nazi"/>
 </Families:Family>
