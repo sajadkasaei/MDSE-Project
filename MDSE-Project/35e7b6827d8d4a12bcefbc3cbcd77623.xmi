@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<Families:Family xmlns:xmi="http://www.omg.org/XMI" xmlns:Families="Families" xmi:id="e60863df-2505-435d-891f-c549e3b52c34" lastName="Sohrevardi" xmi:version="2.0">
-  <father xmi:id="1029455e-b450-4696-8f12-92b4eeeee0b5" firstName="ali"/>
-  <mother xmi:id="91e6f8fe-86d4-4b74-8a7c-2d915c16e152" firstName="fatemeh"/>
-  <sons xmi:id="01d6c395-5166-4f71-918c-166a67357596" firstName="negar"/>
-  <sons xmi:id="122ce690-558e-49c3-a8b7-6947a70819ce" firstName="sajad"/>
-  <sons xmi:id="bc1f9d85-dd2e-4a31-b82e-aa82f8fbf38d" firstName="hassan"/>
-  <daughters xmi:id="5c066ee0-0dec-4a59-8b92-2961268a1bd6" firstName="nazi"/>
-</Families:Family>
