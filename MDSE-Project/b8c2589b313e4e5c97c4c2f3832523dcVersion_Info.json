@@ -1,0 +1,48 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "10699b84-abc8-4afa-a0d9-cb3ce5d7534c",
+                "container_id": "e60863df-2505-435d-891f-c549e3b52c34",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<Families:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:Families=\"Families\" xmi:id=\"10699b84-abc8-4afa-a0d9-cb3ce5d7534c\" firstName=\"sajad\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familySon",
+                        "feature_value": "e60863df-2505-435d-891f-c549e3b52c34"
+                    }
+                ]
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "bb37efe4-6c73-4c9e-8d72-5dc7091d296b",
+                "container_id": "e60863df-2505-435d-891f-c549e3b52c34",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<Families:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:Families=\"Families\" xmi:id=\"bb37efe4-6c73-4c9e-8d72-5dc7091d296b\" firstName=\"nazi\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familyDaughter",
+                        "feature_value": "e60863df-2505-435d-891f-c549e3b52c34"
+                    }
+                ]
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "f0670ab4-2496-4d62-963e-adc6a3ecd404",
+                "container_id": "e60863df-2505-435d-891f-c549e3b52c34",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<Families:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:Families=\"Families\" xmi:id=\"f0670ab4-2496-4d62-963e-adc6a3ecd404\" firstName=\"fateme\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familyMother",
+                        "feature_value": "e60863df-2505-435d-891f-c549e3b52c34"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": []
+    },
+    {
+        "UPDATE": []
+    }
+]
