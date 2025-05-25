@@ -1,0 +1,36 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "06fa5742-c3d1-4c73-a248-fef2b44035d2",
+                "container_id": "e60863df-2505-435d-891f-c549e3b52c34",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<Families:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:Families=\"Families\" xmi:id=\"06fa5742-c3d1-4c73-a248-fef2b44035d2\" firstName=\"fatemeh\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familyMother",
+                        "feature_value": "e60863df-2505-435d-891f-c549e3b52c34"
+                    }
+                ]
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "19893920-24c8-4108-8aa4-970466804bc1",
+                "container_id": "e60863df-2505-435d-891f-c549e3b52c34",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<Families:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:Families=\"Families\" xmi:id=\"19893920-24c8-4108-8aa4-970466804bc1\" firstName=\"hasan\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familySon",
+                        "feature_value": "e60863df-2505-435d-891f-c549e3b52c34"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": []
+    },
+    {
+        "UPDATE": []
+    }
+]
