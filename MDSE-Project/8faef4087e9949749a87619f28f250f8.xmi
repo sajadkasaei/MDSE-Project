@@ -1,7 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Families:Family xmlns:xmi="http://www.omg.org/XMI" xmlns:Families="Families" xmi:id="e60863df-2505-435d-891f-c549e3b52c34" lastName="Sohrevardi" xmi:version="2.0">
   <father xmi:id="1029455e-b450-4696-8f12-92b4eeeee0b5" firstName="ali"/>
-  <mother xmi:id="0dd3343f-647f-4091-9c22-67b7ea7339f4" firstName="sarah"/>
-  <sons xmi:id="8ba7a859-636c-4ed1-8364-d58757cb56ca" firstName="hasi"/>
-  <daughters xmi:id="fb284e9d-b80c-4052-aeda-43c69a0d7af1" firstName="ccc"/>
 </Families:Family>
