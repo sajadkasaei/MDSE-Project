@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Families:Family xmlns:xmi="http://www.omg.org/XMI" xmlns:Families="Families" xmi:id="e60863df-2505-435d-891f-c549e3b52c34" lastName="Trump" xmi:version="2.0">
+  <father xmi:id="1029455e-b450-4696-8f12-92b4eeeee0b5" firstName="ali"/>
+  <mother xmi:id="488ca013-c58d-4e99-94bc-9697e61cd334" firstName="soghra"/>
+  <sons xmi:id="fa8cc10f-110c-4034-9cc4-d3aef1abcb53" firstName="hosein"/>
+</Families:Family>
