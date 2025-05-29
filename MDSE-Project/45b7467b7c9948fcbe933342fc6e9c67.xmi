@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<Families:Family xmlns:xmi="http://www.omg.org/XMI" xmlns:Families="Families" xmi:id="e60863df-2505-435d-891f-c549e3b52c34" lastName="Sohrevardi" xmi:version="2.0">
-  <father xmi:id="1029455e-b450-4696-8f12-92b4eeeee0b5" firstName="a"/>
-  <mother xmi:id="f8a64160-cf6c-4d00-9873-a3aa72e6b32d" firstName="b"/>
-  <daughters xmi:id="edd1b415-a5b2-4e33-a263-c50c41a817f5" firstName="d"/>
-</Families:Family>
