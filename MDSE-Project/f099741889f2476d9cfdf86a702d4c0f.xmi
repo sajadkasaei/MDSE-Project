@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Families:Family xmlns:xmi="http://www.omg.org/XMI" xmlns:Families="Families" xmi:id="e60863df-2505-435d-891f-c549e3b52c34" lastName="Sohrevardi" xmi:version="2.0">
   <father xmi:id="1029455e-b450-4696-8f12-92b4eeeee0b5" firstName="a"/>
+  <mother xmi:id="04fcdced-05b2-49f0-92ec-0d4c4273a8d7" firstName="mm"/>
   <sons xmi:id="d268c625-6b3b-48a6-90b3-4941782ad2de" firstName="s"/>
+  <sons xmi:id="076025be-04f1-4880-8ecd-e23ffac0c78b" firstName="jj"/>
+  <daughters xmi:id="e33c7cc0-b54a-419f-aac4-db29abc1ad4c" firstName="dd"/>
 </Families:Family>
