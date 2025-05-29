@@ -1,0 +1,20 @@
+[
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "edd1b415-a5b2-4e33-a263-c50c41a817f5"
+            },
+            {
+                "operation": "ADD",
+                "internal_id": "4fbe4344-a9c6-44e2-9991-9fe2b75dc438"
+            }
+        ]
+    },
+    {
+        "UPDATE": []
+    }
+]
