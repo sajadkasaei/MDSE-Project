@@ -10,5 +10,6 @@
     <contents xsi:type="OO:Class" xmi:id="c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a" name="Teacher" extends="4011eb39-8463-4340-bdd0-0ecf0c65d63e">
       <features xsi:type="OO:Attribute" xmi:id="49b20a16-83a4-4fb4-ab1e-a66335630297" name="tName"/>
     </contents>
+    <contents xsi:type="OO:Class" xmi:id="321b330a635246ac95dbefa64ca0bef2" name="myNewClass"/>
   </contents>
 </OO:Model>
