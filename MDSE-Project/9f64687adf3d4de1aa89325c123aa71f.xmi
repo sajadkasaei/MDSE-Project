@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mLmodel:Root xmlns:xmi="http://www.omg.org/XMI" xmlns:mLmodel="http://www.example.org/mLmodel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="092dbe28-4262-4180-a255-f78a471c745f" xmi:version="2.0">
+  <process xmi:id="f9ab28bd1cff4539a92353428b000ace">
+    <cycle xsi:type="mLmodel:Excel" xmi:id="42baa6b1a3904156ac52a754e1553670"/>
+  </process>
+</mLmodel:Root>
