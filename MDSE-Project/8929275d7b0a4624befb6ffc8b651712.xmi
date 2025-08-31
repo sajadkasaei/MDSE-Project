@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<mLmodel:Root xmlns:xmi="http://www.omg.org/XMI" xmlns:mLmodel="http://www.example.org/mLmodel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="6b1ddbde-d8a3-49d0-ae3a-03659390152c" xmi:version="2.0">
-  <process xmi:id="bdf8785e3e644b1e891f9b56f55e80fd">
-    <cycle xsi:type="mLmodel:Excel" xmi:id="4d2ea3fe378d4452b81f56da49638d22">
-      <role xsi:type="mLmodel:ID" xmi:id="758319156708446f9b373d8c4eff8440"/>
-    </cycle>
-    <cycle xsi:type="mLmodel:SVM" xmi:id="9926633e9c1f41fe8f92a8bde3c8baf5"/>
-  </process>
-</mLmodel:Root>
