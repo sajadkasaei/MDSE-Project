@@ -1,0 +1,41 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "f808f4394678453d80c328637328b211",
+                "container_id": "bdf8785e3e644b1e891f9b56f55e80fd",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<mLmodel:K_Means xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:mLmodel=\"http://www.example.org/mLmodel\" xmi:id=\"f808f4394678453d80c328637328b211\" xmi:version=\"2.0\"/>\n",
+                "element_References": []
+            }
+        ]
+    },
+    {
+        "ADD": []
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "bdf8785e3e644b1e891f9b56f55e80fd",
+                "feature_name": "cycle",
+                "feature_value": [
+                    "4d2ea3fe378d4452b81f56da49638d22",
+                    "9926633e9c1f41fe8f92a8bde3c8baf5"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "bdf8785e3e644b1e891f9b56f55e80fd",
+                "feature_name": "cycle",
+                "feature_value": [
+                    "4d2ea3fe378d4452b81f56da49638d22",
+                    "9926633e9c1f41fe8f92a8bde3c8baf5",
+                    "f808f4394678453d80c328637328b211"
+                ]
+            }
+        ]
+    }
+]
