@@ -6,6 +6,9 @@
     </cycle>
     <cycle xsi:type="mLmodel:SVM" xmi:id="9926633e9c1f41fe8f92a8bde3c8baf5"/>
     <cycle xsi:type="mLmodel:K_Means" xmi:id="43e2fdad52154ad9a0c4e80f26aa2c38"/>
-    <cycle xsi:type="mLmodel:PCA" xmi:id="b5447a98623b4da384072dd3fc6faba9"/>
+    <cycle xsi:type="mLmodel:PCA" xmi:id="b5447a98623b4da384072dd3fc6faba9">
+      <pca_argumans xsi:type="mLmodel:Component" xmi:id="d09676fc712d4d9fa3a606963e7fd4a5"/>
+      <pca_argumans xsi:type="mLmodel:Varience" xmi:id="2e358b86378f43679eb50b6b1641be6f"/>
+    </cycle>
   </process>
 </mLmodel:Root>
