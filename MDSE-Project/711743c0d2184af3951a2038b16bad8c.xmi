@@ -4,9 +4,7 @@
     <cycle xsi:type="mLmodel:CSV" xmi:id="bbb37658a9674d9a80b3fa52708dc9f1"/>
     <cycle xsi:type="mLmodel:PCA" xmi:id="7f08c0d124714095966a7ecf0416986d">
       <pca_argumans xsi:type="mLmodel:Component" xmi:id="6b5ff2d65fc74e5787af3985f2acf0d2"/>
-      <pca_argumans xsi:type="mLmodel:Varience" xmi:id="1d120424a06c46f189e51c1d5a6ad47c"/>
     </cycle>
-    <cycle xsi:type="mLmodel:SVM" xmi:id="6f8504e6e35c4220be8908148944b1d7"/>
     <data_understanding xsi:type="mLmodel:Statistics" xmi:id="8650d18306524c64ab8532824836ebf0"/>
   </process>
 </mLmodel:Root>
