@@ -1,0 +1,81 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "6f8504e6e35c4220be8908148944b1d7",
+                "container_id": "c13d5f75f482431ab477b2601eea1370",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<mLmodel:SVM xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:mLmodel=\"http://www.example.org/mLmodel\" xmi:id=\"6f8504e6e35c4220be8908148944b1d7\" xmi:version=\"2.0\"/>\n",
+                "element_References": []
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "6b5ff2d65fc74e5787af3985f2acf0d2",
+                "container_id": "7f08c0d124714095966a7ecf0416986d",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<mLmodel:Component xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:mLmodel=\"http://www.example.org/mLmodel\" xmi:id=\"6b5ff2d65fc74e5787af3985f2acf0d2\" xmi:version=\"2.0\"/>\n",
+                "element_References": []
+            }
+        ]
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "e0d64ecaf9a94a0587de1c7b409090a8"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "c13d5f75f482431ab477b2601eea1370",
+                "feature_name": "cycle",
+                "feature_value": [
+                    "bbb37658a9674d9a80b3fa52708dc9f1",
+                    "7f08c0d124714095966a7ecf0416986d"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "c13d5f75f482431ab477b2601eea1370",
+                "feature_name": "cycle",
+                "feature_value": [
+                    "6f8504e6e35c4220be8908148944b1d7",
+                    "bbb37658a9674d9a80b3fa52708dc9f1",
+                    "7f08c0d124714095966a7ecf0416986d"
+                ]
+            },
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "bbb37658a9674d9a80b3fa52708dc9f1",
+                "feature_name": "role",
+                "feature_value": [
+                    "e0d64ecaf9a94a0587de1c7b409090a8"
+                ]
+            },
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "7f08c0d124714095966a7ecf0416986d",
+                "feature_name": "pca_argumans",
+                "feature_value": [
+                    "1d120424a06c46f189e51c1d5a6ad47c"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "7f08c0d124714095966a7ecf0416986d",
+                "feature_name": "pca_argumans",
+                "feature_value": [
+                    "1d120424a06c46f189e51c1d5a6ad47c",
+                    "6b5ff2d65fc74e5787af3985f2acf0d2"
+                ]
+            }
+        ]
+    }
+]
