@@ -1,7 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <mLmodel:Root xmlns:xmi="http://www.omg.org/XMI" xmlns:mLmodel="http://www.example.org/mLmodel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="1eaf175f-1b4c-4b8e-bea8-e1315074d740" xmi:version="2.0">
   <process xmi:id="12c3e9b26952474cb129510157a14403">
-    <cycle xsi:type="mLmodel:CSV" xmi:id="4798e713f5584afe987c5c4edcf88132"/>
-    <cycle xsi:type="mLmodel:PCA" xmi:id="4b6a03de1bd8409092805b7d63fe9deb"/>
+    <cycle xsi:type="mLmodel:CSV" xmi:id="4798e713f5584afe987c5c4edcf88132">
+      <role xsi:type="mLmodel:ID" xmi:id="88e3db92eaea48d1ac37682ff0df5353"/>
+    </cycle>
   </process>
 </mLmodel:Root>
