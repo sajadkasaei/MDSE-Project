@@ -1,0 +1,53 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "4b6a03de1bd8409092805b7d63fe9deb",
+                "container_id": "12c3e9b26952474cb129510157a14403",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<mLmodel:PCA xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:mLmodel=\"http://www.example.org/mLmodel\" xmi:id=\"4b6a03de1bd8409092805b7d63fe9deb\" xmi:version=\"2.0\"/>\n",
+                "element_References": []
+            }
+        ]
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "88e3db92eaea48d1ac37682ff0df5353"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "12c3e9b26952474cb129510157a14403",
+                "feature_name": "cycle",
+                "feature_value": [
+                    "4798e713f5584afe987c5c4edcf88132"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "12c3e9b26952474cb129510157a14403",
+                "feature_name": "cycle",
+                "feature_value": [
+                    "4798e713f5584afe987c5c4edcf88132",
+                    "4b6a03de1bd8409092805b7d63fe9deb"
+                ]
+            },
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "4798e713f5584afe987c5c4edcf88132",
+                "feature_name": "role",
+                "feature_value": [
+                    "88e3db92eaea48d1ac37682ff0df5353"
+                ]
+            }
+        ]
+    }
+]
