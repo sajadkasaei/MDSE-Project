@@ -7,5 +7,6 @@
     <cycle xsi:type="mLmodel:PCA" xmi:id="7f08c0d124714095966a7ecf0416986d">
       <pca_argumans xsi:type="mLmodel:Varience" xmi:id="1d120424a06c46f189e51c1d5a6ad47c"/>
     </cycle>
+    <cycle xsi:type="mLmodel:K_Means" xmi:id="8bd466a7485e4cf49e454231cfc148c8"/>
   </process>
 </mLmodel:Root>
