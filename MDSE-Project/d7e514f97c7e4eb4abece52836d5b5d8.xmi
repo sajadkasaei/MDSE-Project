@@ -2,6 +2,7 @@
 <mLmodel:Root xmlns:xmi="http://www.omg.org/XMI" xmlns:mLmodel="http://www.example.org/mLmodel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="46099e45-b467-4cf8-bd4e-ce05fbe00706" xmi:version="2.0">
   <process xmi:id="c13d5f75f482431ab477b2601eea1370">
     <cycle xsi:type="mLmodel:K_Means" xmi:id="8bd466a7485e4cf49e454231cfc148c8"/>
+    <cycle xsi:type="mLmodel:MLP" xmi:id="0d888d5d27694ff9a9e3c12ea2224995"/>
     <cycle xsi:type="mLmodel:CSV" xmi:id="bbb37658a9674d9a80b3fa52708dc9f1">
       <role xsi:type="mLmodel:Target" xmi:id="e0d64ecaf9a94a0587de1c7b409090a8"/>
     </cycle>
