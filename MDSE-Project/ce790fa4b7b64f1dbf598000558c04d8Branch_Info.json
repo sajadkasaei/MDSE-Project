@@ -1,11 +1,11 @@
 {
-    "branch_ID": "ce790fa4b7b64f1dbf598000558c04d8",
+    "branch_ID": "f08cdb90571e4ea8b9308369024e97de",
     "pivot_ID": "f08cdb90571e4ea8b9308369024e97de",
-    "collaborators": "private",
-    "branch_Pattern": "short",
+    "collaborators": "public",
+    "branch_Pattern": "long",
     "branch_Scope": "full",
     "Versions_ID": [
-        "ce790fa4b7b64f1dbf598000558c04d8",
-        "bfbebe123a43475faf4eb4ef2cdd571b"
+        "f08cdb90571e4ea8b9308369024e97de",
+        "9c5454c17e27482da91738522108fcc1"
     ]
 }
