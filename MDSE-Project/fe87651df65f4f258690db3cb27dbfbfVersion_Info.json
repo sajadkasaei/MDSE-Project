@@ -1,0 +1,36 @@
+[
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "a7b4092ad8d84aaf9a1e53d7b2ee5b03"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "fe01c6b3f6f943e3ac887f612e34b2f7",
+                "feature_name": "ownedPrototype",
+                "feature_value": [
+                    "d5970aa9311c47048d65c028209aedce",
+                    "a7b4092ad8d84aaf9a1e53d7b2ee5b03"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "fe01c6b3f6f943e3ac887f612e34b2f7",
+                "feature_name": "ownedPrototype",
+                "feature_value": [
+                    "d5970aa9311c47048d65c028209aedce"
+                ]
+            }
+        ]
+    }
+]
