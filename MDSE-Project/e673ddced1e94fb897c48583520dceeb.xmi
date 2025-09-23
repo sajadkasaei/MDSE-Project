@@ -3,6 +3,7 @@
   <ownedPublicSection xmi:id="bb0132bf25cb49f9b543c00ccf68523e" name="test" importedUnit="0cbaf66c-ce5e-48e2-8061-cf1cb1e0a6f0">
     <ownedClassifier xsi:type="aadl2:DataImplementation" xmi:id="fe01c6b3f6f943e3ac887f612e34b2f7" name="d">
       <ownedPrototype xsi:type="aadl2:ThreadPrototype" xmi:id="d5970aa9311c47048d65c028209aedce" name="p" constrainingClassifier="fe01c6b3f6f943e3ac887f612e34b2f7"/>
+      <ownedPrototype xsi:type="aadl2:DataPrototype" xmi:id="a7b4092ad8d84aaf9a1e53d7b2ee5b03" name="hhh"/>
     </ownedClassifier>
   </ownedPublicSection>
 </aadl2:AadlPackage>
