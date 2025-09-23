@@ -1,0 +1,26 @@
+[
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": []
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "other",
+                "internal_id": "fe01c6b3f6f943e3ac887f612e34b2f7",
+                "feature_name": "name",
+                "feature_value": "drrr"
+            },
+            {
+                "operation": "DEL",
+                "type": "other",
+                "internal_id": "fe01c6b3f6f943e3ac887f612e34b2f7",
+                "feature_name": "name",
+                "feature_value": "d"
+            }
+        ]
+    }
+]
