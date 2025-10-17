@@ -7,7 +7,7 @@
     <contents xsi:type="OO:Class" xmi:id="553fec6f-33aa-4188-980f-f658ec978232" name="Course">
       <features xsi:type="OO:Attribute" xmi:id="b64b0c0b-7735-4b21-ba23-dd20dc3b28a2" name="name"/>
     </contents>
-    <contents xsi:type="OO:Class" xmi:id="c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a" name="Teacher" extends="4011eb39-8463-4340-bdd0-0ecf0c65d63e">
+    <contents xsi:type="OO:Class" xmi:id="c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a" name="Professor" extends="4011eb39-8463-4340-bdd0-0ecf0c65d63e">
       <features xsi:type="OO:Attribute" xmi:id="49b20a16-83a4-4fb4-ab1e-a66335630297" name="tName"/>
     </contents>
   </contents>
