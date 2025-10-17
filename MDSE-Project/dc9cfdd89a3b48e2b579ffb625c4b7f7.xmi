@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <OO:Model xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="af6dd01c-307b-4445-b6fc-9ec5a69cd1a2" name="University" xmi:version="2.0">
   <contents xsi:type="OO:Package" xmi:id="b08c9b9a-0fab-467c-a478-d857468b1605" name="Edu">
-    <contents xsi:type="OO:Class" xmi:id="4011eb39-8463-4340-bdd0-0ecf0c65d63e" name="room" extendedBy="c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a">
+    <contents xsi:type="OO:Class" xmi:id="4011eb39-8463-4340-bdd0-0ecf0c65d63e" name="room">
       <features xsi:type="OO:Attribute" xmi:id="b632855c-0e03-4f7e-b50c-49439c842ab1" name="id"/>
     </contents>
     <contents xsi:type="OO:Class" xmi:id="553fec6f-33aa-4188-980f-f658ec978232" name="Course">
       <features xsi:type="OO:Attribute" xmi:id="b64b0c0b-7735-4b21-ba23-dd20dc3b28a2" name="name"/>
-    </contents>
-    <contents xsi:type="OO:Class" xmi:id="c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a" name="Teacher" extends="4011eb39-8463-4340-bdd0-0ecf0c65d63e">
-      <features xsi:type="OO:Attribute" xmi:id="49b20a16-83a4-4fb4-ab1e-a66335630297" name="tName"/>
     </contents>
   </contents>
 </OO:Model>
