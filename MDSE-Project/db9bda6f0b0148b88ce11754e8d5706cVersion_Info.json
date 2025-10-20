@@ -1,0 +1,49 @@
+[
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "4859313e4384490db9ab7ffcadf37169"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "feature_name": "contents",
+                "feature_value": [
+                    "4011eb39-8463-4340-bdd0-0ecf0c65d63e",
+                    "553fec6f-33aa-4188-980f-f658ec978232",
+                    "c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a",
+                    "4859313e4384490db9ab7ffcadf37169"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "feature_name": "contents",
+                "feature_value": [
+                    "4011eb39-8463-4340-bdd0-0ecf0c65d63e",
+                    "553fec6f-33aa-4188-980f-f658ec978232",
+                    "c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a"
+                ]
+            },
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a",
+                "feature_name": "extendedBy",
+                "feature_value": [
+                    "4859313e4384490db9ab7ffcadf37169"
+                ]
+            }
+        ]
+    }
+]
