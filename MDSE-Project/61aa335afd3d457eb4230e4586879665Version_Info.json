@@ -1,0 +1,77 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a",
+                "container_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<OO:Class xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:OO=\"OO\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmi:id=\"c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a\" name=\"Professor\" xmi:version=\"2.0\">\n  <features xsi:type=\"OO:Attribute\" xmi:id=\"b2227acd0edc4b4b985b9b4a63eeef00\" name=\"pName\"/>\n  <extends href=\"C:/Users/Admin/Desktop/VSM-Version06/VSM/teeest/server_last_version.xmi#4011eb39-8463-4340-bdd0-0ecf0c65d63e\" xsi:type=\"OO:Class\"/>\n</OO:Class>\n",
+                "element_References": [
+                    {
+                        "feature_name": "package",
+                        "feature_value": "b08c9b9a-0fab-467c-a478-d857468b1605"
+                    },
+                    {
+                        "feature_name": "features",
+                        "feature_value": [
+                            "b2227acd0edc4b4b985b9b4a63eeef00"
+                        ]
+                    },
+                    {
+                        "feature_name": "extends",
+                        "feature_value": "4011eb39-8463-4340-bdd0-0ecf0c65d63e"
+                    }
+                ]
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "b2227acd0edc4b4b985b9b4a63eeef00",
+                "container_id": "c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<OO:Attribute xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:OO=\"OO\" xmi:id=\"b2227acd0edc4b4b985b9b4a63eeef00\" name=\"pName\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "owner",
+                        "feature_value": "c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": []
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "feature_name": "contents",
+                "feature_value": [
+                    "4011eb39-8463-4340-bdd0-0ecf0c65d63e",
+                    "553fec6f-33aa-4188-980f-f658ec978232"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "feature_name": "contents",
+                "feature_value": [
+                    "4011eb39-8463-4340-bdd0-0ecf0c65d63e",
+                    "553fec6f-33aa-4188-980f-f658ec978232",
+                    "c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "4011eb39-8463-4340-bdd0-0ecf0c65d63e",
+                "feature_name": "extendedBy",
+                "feature_value": [
+                    "c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a"
+                ]
+            }
+        ]
+    }
+]
