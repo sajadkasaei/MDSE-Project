@@ -1,0 +1,26 @@
+[
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": []
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "other",
+                "internal_id": "9b001ae78d124db38a56a9ec7dafd91b",
+                "feature_name": "name",
+                "feature_value": "roomName"
+            },
+            {
+                "operation": "DEL",
+                "type": "other",
+                "internal_id": "9b001ae78d124db38a56a9ec7dafd91b",
+                "feature_name": "name",
+                "feature_value": "rName"
+            }
+        ]
+    }
+]
