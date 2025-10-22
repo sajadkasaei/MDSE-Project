@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OO:Model xmlns:xmi="http://www.omg.org/XMI" xmlns:OO="OO" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="af6dd01c-307b-4445-b6fc-9ec5a69cd1a2" name="University" xmi:version="2.0">
+  <contents xsi:type="OO:Package" xmi:id="b08c9b9a-0fab-467c-a478-d857468b1605" name="Edu">
+    <contents xsi:type="OO:Class" xmi:id="c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a" name="Professor" extends="4011eb39-8463-4340-bdd0-0ecf0c65d63e">
+      <features xsi:type="OO:Attribute" xmi:id="b2227acd0edc4b4b985b9b4a63eeef00" name="pName"/>
+      <features xsi:type="OO:Attribute" xmi:id="a72a89da8d5d40f6b4333dfb635ba096" name="pID"/>
+    </contents>
+    <contents xsi:type="OO:Class" xmi:id="4011eb39-8463-4340-bdd0-0ecf0c65d63e" name="room" extendedBy="c087de3c-d5e6-4980-86b5-f4cbdc7ffc2a">
+      <features xsi:type="OO:Attribute" xmi:id="9b001ae78d124db38a56a9ec7dafd91b" name="rName"/>
+      <features xsi:type="OO:Attribute" xmi:id="5c7a0c052344444c9dc52d7024b5e667" name="rID"/>
+    </contents>
+    <contents xsi:type="OO:Class" xmi:id="553fec6f-33aa-4188-980f-f658ec978232" name="Course">
+      <features xsi:type="OO:Attribute" xmi:id="b64b0c0b-7735-4b21-ba23-dd20dc3b28a2" name="cName"/>
+      <features xsi:type="OO:Attribute" xmi:id="b60bcba099da4695940ab90596aa7e82" name="cID"/>
+    </contents>
+  </contents>
+</OO:Model>
