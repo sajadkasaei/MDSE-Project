@@ -1,0 +1,54 @@
+[
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": []
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "553fec6f-33aa-4188-980f-f658ec978232",
+                "feature_name": "features",
+                "feature_value": [
+                    "b64b0c0b-7735-4b21-ba23-dd20dc3b28a2"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "553fec6f-33aa-4188-980f-f658ec978232",
+                "feature_name": "features",
+                "feature_value": [
+                    "b64b0c0b-7735-4b21-ba23-dd20dc3b28a2",
+                    "6ba971201a874f9c858b5d8cad9f58c8"
+                ]
+            },
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "da06a033dea24c2ca47eacd02edb9a30",
+                "feature_name": "features",
+                "feature_value": [
+                    "6ba971201a874f9c858b5d8cad9f58c8"
+                ]
+            },
+            {
+                "operation": "ADD",
+                "type": "EContainer",
+                "internal_id": "6ba971201a874f9c858b5d8cad9f58c8",
+                "feature_name": "owner",
+                "feature_value": "da06a033dea24c2ca47eacd02edb9a30"
+            },
+            {
+                "operation": "DEL",
+                "type": "EContainer",
+                "internal_id": "6ba971201a874f9c858b5d8cad9f58c8",
+                "feature_name": "owner",
+                "feature_value": "553fec6f-33aa-4188-980f-f658ec978232"
+            }
+        ]
+    }
+]
