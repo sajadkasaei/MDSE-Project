@@ -3,6 +3,7 @@
   <contents xsi:type="OO:Package" xmi:id="b08c9b9a-0fab-467c-a478-d857468b1605" name="Edu">
     <contents xsi:type="OO:Class" xmi:id="aa4daa3df8fc45ea919784657708ce63" name="student">
       <features xsi:type="OO:Operation" xmi:id="8ab69782c77946fbbcf493a55b714214" name="getCourse"/>
+      <features xsi:type="OO:Attribute" xmi:id="90d38501834d49f6a54d69d17bbd8edd" name="sName"/>
     </contents>
     <contents xsi:type="OO:Class" xmi:id="4011eb39-8463-4340-bdd0-0ecf0c65d63e" name="room" extends="553fec6f-33aa-4188-980f-f658ec978232">
       <features xsi:type="OO:Attribute" xmi:id="9b001ae78d124db38a56a9ec7dafd91b" name="roomName"/>
