@@ -1,0 +1,36 @@
+[
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "90d38501834d49f6a54d69d17bbd8edd"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "aa4daa3df8fc45ea919784657708ce63",
+                "feature_name": "features",
+                "feature_value": [
+                    "8ab69782c77946fbbcf493a55b714214",
+                    "90d38501834d49f6a54d69d17bbd8edd"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "aa4daa3df8fc45ea919784657708ce63",
+                "feature_name": "features",
+                "feature_value": [
+                    "8ab69782c77946fbbcf493a55b714214"
+                ]
+            }
+        ]
+    }
+]
