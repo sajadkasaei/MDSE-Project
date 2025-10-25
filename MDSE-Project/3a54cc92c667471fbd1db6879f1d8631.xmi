@@ -9,8 +9,5 @@
       <features xsi:type="OO:Attribute" xmi:id="b64b0c0b-7735-4b21-ba23-dd20dc3b28a2" name="cName"/>
       <features xsi:type="OO:Attribute" xmi:id="b60bcba099da4695940ab90596aa7e82" name="cID"/>
     </contents>
-    <contents xsi:type="OO:Class" xmi:id="aa4daa3df8fc45ea919784657708ce63" name="student">
-      <features xsi:type="OO:Operation" xmi:id="8ab69782c77946fbbcf493a55b714214" name="getCourse"/>
-    </contents>
   </contents>
 </OO:Model>
