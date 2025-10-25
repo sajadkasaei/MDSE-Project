@@ -4,7 +4,7 @@
     <contents xsi:type="OO:Class" xmi:id="aa4daa3df8fc45ea919784657708ce63" name="student">
       <features xsi:type="OO:Operation" xmi:id="8ab69782c77946fbbcf493a55b714214" name="getCourse"/>
       <features xsi:type="OO:Attribute" xmi:id="d2da4658723a448c8d2fa9b7625970b7" name="sName"/>
-      <features xsi:type="OO:Attribute" xmi:id="a7db5e398fa342f8ae0404239cb1e2fb" name="cID"/>
+      <features xsi:type="OO:Attribute" xmi:id="b60bcba099da4695940ab90596aa7e82" name="cID"/>
     </contents>
     <contents xsi:type="OO:Class" xmi:id="4011eb39-8463-4340-bdd0-0ecf0c65d63e" name="room" extends="553fec6f-33aa-4188-980f-f658ec978232">
       <features xsi:type="OO:Attribute" xmi:id="9b001ae78d124db38a56a9ec7dafd91b" name="nameOfRoom"/>
