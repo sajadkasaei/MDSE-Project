@@ -1,0 +1,79 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "aa4daa3df8fc45ea919784657708ce63",
+                "container_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<OO:Class xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:OO=\"OO\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmi:id=\"aa4daa3df8fc45ea919784657708ce63\" name=\"student\" xmi:version=\"2.0\">\n  <features xsi:type=\"OO:Operation\" xmi:id=\"8ab69782c77946fbbcf493a55b714214\" name=\"getCourse\"/>\n  <features xsi:type=\"OO:Attribute\" xmi:id=\"90d38501834d49f6a54d69d17bbd8edd\" name=\"sName\"/>\n</OO:Class>\n",
+                "element_References": [
+                    {
+                        "feature_name": "package",
+                        "feature_value": "b08c9b9a-0fab-467c-a478-d857468b1605"
+                    },
+                    {
+                        "feature_name": "features",
+                        "feature_value": [
+                            "8ab69782c77946fbbcf493a55b714214",
+                            "90d38501834d49f6a54d69d17bbd8edd"
+                        ]
+                    }
+                ]
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "8ab69782c77946fbbcf493a55b714214",
+                "container_id": "aa4daa3df8fc45ea919784657708ce63",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<OO:Operation xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:OO=\"OO\" xmi:id=\"8ab69782c77946fbbcf493a55b714214\" name=\"getCourse\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "owner",
+                        "feature_value": "aa4daa3df8fc45ea919784657708ce63"
+                    }
+                ]
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "90d38501834d49f6a54d69d17bbd8edd",
+                "container_id": "aa4daa3df8fc45ea919784657708ce63",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<OO:Attribute xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:OO=\"OO\" xmi:id=\"90d38501834d49f6a54d69d17bbd8edd\" name=\"sName\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "owner",
+                        "feature_value": "aa4daa3df8fc45ea919784657708ce63"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": []
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "feature_name": "contents",
+                "feature_value": [
+                    "4011eb39-8463-4340-bdd0-0ecf0c65d63e",
+                    "553fec6f-33aa-4188-980f-f658ec978232",
+                    "da06a033dea24c2ca47eacd02edb9a30"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "feature_name": "contents",
+                "feature_value": [
+                    "aa4daa3df8fc45ea919784657708ce63",
+                    "4011eb39-8463-4340-bdd0-0ecf0c65d63e",
+                    "553fec6f-33aa-4188-980f-f658ec978232",
+                    "da06a033dea24c2ca47eacd02edb9a30"
+                ]
+            }
+        ]
+    }
+]
