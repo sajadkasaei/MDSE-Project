@@ -1,0 +1,44 @@
+[
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "b8903cc063be4be199eae4b3505d9db3"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "feature_name": "contents",
+                "feature_value": [
+                    "4011eb39-8463-4340-bdd0-0ecf0c65d63e",
+                    "553fec6f-33aa-4188-980f-f658ec978232",
+                    "da06a033dea24c2ca47eacd02edb9a30",
+                    "f827d57a89d94edd8883e297ea8888d4",
+                    "5cb45a9457124fbbb4f6f1483cde7c28",
+                    "b8903cc063be4be199eae4b3505d9db3"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "feature_name": "contents",
+                "feature_value": [
+                    "4011eb39-8463-4340-bdd0-0ecf0c65d63e",
+                    "553fec6f-33aa-4188-980f-f658ec978232",
+                    "da06a033dea24c2ca47eacd02edb9a30",
+                    "f827d57a89d94edd8883e297ea8888d4",
+                    "5cb45a9457124fbbb4f6f1483cde7c28"
+                ]
+            }
+        ]
+    }
+]
