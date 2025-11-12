@@ -1,0 +1,26 @@
+[
+    {
+        "DELETE": []
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "0731aabc869b4234a9698680c5395102"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "e10da74d24f94466b69cbfb294000190",
+                "feature_name": "features",
+                "feature_value": [
+                    "0731aabc869b4234a9698680c5395102"
+                ]
+            }
+        ]
+    }
+]
