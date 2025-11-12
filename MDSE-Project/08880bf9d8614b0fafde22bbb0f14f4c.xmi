@@ -12,5 +12,6 @@
       <features xsi:type="OO:Attribute" xmi:id="6ba971201a874f9c858b5d8cad9f58c8" name="cID"/>
     </contents>
     <contents xsi:type="OO:Class" xmi:id="f827d57a89d94edd8883e297ea8888d4" name="student"/>
+    <contents xsi:type="OO:Class" xmi:id="5cb45a9457124fbbb4f6f1483cde7c28" name="staff"/>
   </contents>
 </OO:Model>
