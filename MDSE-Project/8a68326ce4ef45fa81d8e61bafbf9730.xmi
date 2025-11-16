@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<family:FamilyRegister xmlns:xmi="http://www.omg.org/XMI" xmlns:family="http://www.example.org/family" xmi:id="11e8f763-c229-4b9d-bd46-4cfaa71546d0" xmi:version="2.0">
+  <families xmi:id="6a91ceee41d04c49a9d01a0c107e3ad0" lastName="ddd">
+    <daughters xmi:id="829c985314334d70bca263f85419cb21" firstName="fff"/>
+  </families>
+  <families xmi:id="e9dccec3c708483295a3e842f1275578" lastName="gg"/>
+</family:FamilyRegister>
