@@ -1,0 +1,80 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "5258e38632c946f3b4fd6f8fec984c76",
+                "container_id": "650b5bf25d304b519f39f61412079f4b",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<family:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:family=\"http://www.example.org/family\" xmi:id=\"5258e38632c946f3b4fd6f8fec984c76\" firstName=\"Homer\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familySon",
+                        "feature_value": "650b5bf25d304b519f39f61412079f4b"
+                    }
+                ]
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "f83e8e41cf5544bfb88072c69c52d427",
+                "container_id": "8cda860ce67a4d8997bd13cc677a3822",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<family:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:family=\"http://www.example.org/family\" xmi:id=\"f83e8e41cf5544bfb88072c69c52d427\" firstName=\"Marge\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familyDaughter",
+                        "feature_value": "8cda860ce67a4d8997bd13cc677a3822"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "1c15dd24e0b243afb089cba4b2416da7"
+            },
+            {
+                "operation": "ADD",
+                "internal_id": "6eeedd41da1d43a48ab0ab526625acd1"
+            },
+            {
+                "operation": "ADD",
+                "internal_id": "6255485e3dce4e899a59d2b3e1bbe029"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "650b5bf25d304b519f39f61412079f4b",
+                "feature_name": "sons",
+                "feature_value": [
+                    "5258e38632c946f3b4fd6f8fec984c76"
+                ]
+            },
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "8cda860ce67a4d8997bd13cc677a3822",
+                "feature_name": "daughters",
+                "feature_value": [
+                    "c2577ee6ccfe4883a9a2b4405355d46c",
+                    "038b6fa304dd471297bbed65da9dda16"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "8cda860ce67a4d8997bd13cc677a3822",
+                "feature_name": "daughters",
+                "feature_value": [
+                    "c2577ee6ccfe4883a9a2b4405355d46c",
+                    "038b6fa304dd471297bbed65da9dda16",
+                    "f83e8e41cf5544bfb88072c69c52d427"
+                ]
+            }
+        ]
+    }
+]
