@@ -1,0 +1,51 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "1880cab0796f444890ecb810ed512dd9",
+                "container_id": "bb0132bf25cb49f9b543c00ccf68523e",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<aadl2:DataType xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:aadl2=\"http://aadl.info/AADL/2.0\" xmi:id=\"1880cab0796f444890ecb810ed512dd9\" name=\"dddd\" xmi:version=\"2.0\"/>\n",
+                "element_References": []
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "8f2e2a8a28ec42be973b4fc2f18b9dc3",
+                "container_id": "bb0132bf25cb49f9b543c00ccf68523e",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<aadl2:SubprogramGroupType xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:aadl2=\"http://aadl.info/AADL/2.0\" xmi:id=\"8f2e2a8a28ec42be973b4fc2f18b9dc3\" name=\"ttttttt\" xmi:version=\"2.0\"/>\n",
+                "element_References": []
+            }
+        ]
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "368a0f9b809e4920a236e22274bfba83"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "bb0132bf25cb49f9b543c00ccf68523e",
+                "feature_name": "ownedClassifier",
+                "feature_value": [
+                    "368a0f9b809e4920a236e22274bfba83"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "bb0132bf25cb49f9b543c00ccf68523e",
+                "feature_name": "ownedClassifier",
+                "feature_value": [
+                    "1880cab0796f444890ecb810ed512dd9",
+                    "8f2e2a8a28ec42be973b4fc2f18b9dc3"
+                ]
+            }
+        ]
+    }
+]
