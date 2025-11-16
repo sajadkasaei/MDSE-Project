@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <aadl2:AadlPackage xmlns:xmi="http://www.omg.org/XMI" xmlns:aadl2="http://aadl.info/AADL/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="0cbaf66c-ce5e-48e2-8061-cf1cb1e0a6f0" name="myPack" publicSection="bb0132bf25cb49f9b543c00ccf68523e" xmi:version="2.0">
   <ownedPublicSection xmi:id="bb0132bf25cb49f9b543c00ccf68523e" name="test" importedUnit="0cbaf66c-ce5e-48e2-8061-cf1cb1e0a6f0">
-    <ownedClassifier xsi:type="aadl2:DataType" xmi:id="1880cab0796f444890ecb810ed512dd9" name="dddd"/>
-    <ownedClassifier xsi:type="aadl2:SubprogramGroupType" xmi:id="8f2e2a8a28ec42be973b4fc2f18b9dc3" name="ttttttt"/>
+    <ownedClassifier xsi:type="aadl2:MemoryType" xmi:id="368a0f9b809e4920a236e22274bfba83" name="ffffff"/>
   </ownedPublicSection>
 </aadl2:AadlPackage>
