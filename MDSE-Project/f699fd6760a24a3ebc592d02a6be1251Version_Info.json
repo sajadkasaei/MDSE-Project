@@ -1,0 +1,67 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "16064e11f1904bb7b55eca82cded3ea5",
+                "container_id": "653b8b78-3901-4983-ba99-ee0d6a17f9dc",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<family:Family xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:family=\"http://www.example.org/family\" xmi:id=\"16064e11f1904bb7b55eca82cded3ea5\" lastName=\"Simpson\" xmi:version=\"2.0\">\n  <father xmi:id=\"fd07b1cbeb15414d8d9863af46b59947\" firstName=\"Hamer\"/>\n  <mother xmi:id=\"c2ca7005874144468c21620fd1907f1b\" firstName=\"Marge\"/>\n</family:Family>\n",
+                "element_References": [
+                    {
+                        "feature_name": "father",
+                        "feature_value": "fd07b1cbeb15414d8d9863af46b59947"
+                    },
+                    {
+                        "feature_name": "mother",
+                        "feature_value": "c2ca7005874144468c21620fd1907f1b"
+                    }
+                ]
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "fd07b1cbeb15414d8d9863af46b59947",
+                "container_id": "16064e11f1904bb7b55eca82cded3ea5",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<family:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:family=\"http://www.example.org/family\" xmi:id=\"fd07b1cbeb15414d8d9863af46b59947\" firstName=\"Hamer\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familyFather",
+                        "feature_value": "16064e11f1904bb7b55eca82cded3ea5"
+                    }
+                ]
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "c2ca7005874144468c21620fd1907f1b",
+                "container_id": "16064e11f1904bb7b55eca82cded3ea5",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<family:Member xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:family=\"http://www.example.org/family\" xmi:id=\"c2ca7005874144468c21620fd1907f1b\" firstName=\"Marge\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "familyMother",
+                        "feature_value": "16064e11f1904bb7b55eca82cded3ea5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "77c1a1af445147868a23773cc6c6cd15"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "4fab3042ad334e1a8f4a1441b10cdd70",
+                "feature_name": "sons",
+                "feature_value": [
+                    "77c1a1af445147868a23773cc6c6cd15"
+                ]
+            }
+        ]
+    }
+]
