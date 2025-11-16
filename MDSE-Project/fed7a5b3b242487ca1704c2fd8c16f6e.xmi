@@ -2,5 +2,6 @@
 <aadl2:AadlPackage xmlns:xmi="http://www.omg.org/XMI" xmlns:aadl2="http://aadl.info/AADL/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="0cbaf66c-ce5e-48e2-8061-cf1cb1e0a6f0" name="myPack" publicSection="bb0132bf25cb49f9b543c00ccf68523e" xmi:version="2.0">
   <ownedPublicSection xmi:id="bb0132bf25cb49f9b543c00ccf68523e" name="test" importedUnit="0cbaf66c-ce5e-48e2-8061-cf1cb1e0a6f0">
     <ownedClassifier xsi:type="aadl2:DataImplementation" xmi:id="fe01c6b3f6f943e3ac887f612e34b2f7" name="drrr"/>
+    <ownedClassifier xsi:type="aadl2:SystemType" xmi:id="6c5affb771064d768a422568c333255a"/>
   </ownedPublicSection>
 </aadl2:AadlPackage>
