@@ -12,4 +12,8 @@
     <daughters xmi:id="abe8d515a25242789534eb284b198890" firstName="Selma"/>
     <daughters xmi:id="74a82df0f1834857b285e641817c56ec" firstName="Marge"/>
   </families>
+  <families xmi:id="877b7de5f67a4b26928d1e96bf489be7" lastName="Simpson">
+    <father xmi:id="f3a703515536471ca8fac1b827f0c01e" firstName="Homer"/>
+    <mother xmi:id="ddc01a1c75ac4f1289e31b50f66f30ce" firstName="Marge"/>
+  </families>
 </family:FamilyRegister>
