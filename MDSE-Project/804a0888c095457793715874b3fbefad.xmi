@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <aadl2:AadlPackage xmlns:xmi="http://www.omg.org/XMI" xmlns:aadl2="http://aadl.info/AADL/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:id="0cbaf66c-ce5e-48e2-8061-cf1cb1e0a6f0" name="myPack" publicSection="bb0132bf25cb49f9b543c00ccf68523e" xmi:version="2.0">
+  <ownedPropertyAssociation xmi:id="a70194f3956b4a9085248d5ab9622508"/>
   <ownedPublicSection xmi:id="bb0132bf25cb49f9b543c00ccf68523e" name="test" importedUnit="0cbaf66c-ce5e-48e2-8061-cf1cb1e0a6f0">
-    <ownedClassifier xsi:type="aadl2:DataType" xmi:id="1880cab0796f444890ecb810ed512dd9" name="dddd"/>
-    <ownedClassifier xsi:type="aadl2:SubprogramGroupType" xmi:id="8f2e2a8a28ec42be973b4fc2f18b9dc3" name="ttttttt"/>
+    <ownedPackageRename xmi:id="ef649f2f232147c097684f0bff6e60d2" name="1111"/>
+    <ownedClassifier xsi:type="aadl2:DataType" xmi:id="1880cab0796f444890ecb810ed512dd9" name="dddd">
+      <ownedPrototype xsi:type="aadl2:ThreadGroupPrototype" xmi:id="da49059280434b1089e38712b2f0fd41" name="33333"/>
+    </ownedClassifier>
+    <ownedClassifier xsi:type="aadl2:SubprogramType" xmi:id="2913ade5e8c742ae9f3e766296afc1da" name="2222"/>
   </ownedPublicSection>
+  <ownedPrivateSection xmi:id="98b51d37166049ca97a2720eeb3ff514"/>
 </aadl2:AadlPackage>
