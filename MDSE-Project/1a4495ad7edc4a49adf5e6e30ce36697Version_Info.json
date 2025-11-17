@@ -1,0 +1,79 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "8f2e2a8a28ec42be973b4fc2f18b9dc3",
+                "container_id": "bb0132bf25cb49f9b543c00ccf68523e",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<aadl2:SubprogramGroupType xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:aadl2=\"http://aadl.info/AADL/2.0\" xmi:id=\"8f2e2a8a28ec42be973b4fc2f18b9dc3\" name=\"ttttttt\" xmi:version=\"2.0\"/>\n",
+                "element_References": []
+            }
+        ]
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "a70194f3956b4a9085248d5ab9622508"
+            },
+            {
+                "operation": "ADD",
+                "internal_id": "98b51d37166049ca97a2720eeb3ff514"
+            },
+            {
+                "operation": "ADD",
+                "internal_id": "ef649f2f232147c097684f0bff6e60d2"
+            },
+            {
+                "operation": "ADD",
+                "internal_id": "2913ade5e8c742ae9f3e766296afc1da"
+            },
+            {
+                "operation": "ADD",
+                "internal_id": "da49059280434b1089e38712b2f0fd41"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "bb0132bf25cb49f9b543c00ccf68523e",
+                "feature_name": "ownedPackageRename",
+                "feature_value": [
+                    "ef649f2f232147c097684f0bff6e60d2"
+                ]
+            },
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "bb0132bf25cb49f9b543c00ccf68523e",
+                "feature_name": "ownedClassifier",
+                "feature_value": [
+                    "1880cab0796f444890ecb810ed512dd9",
+                    "2913ade5e8c742ae9f3e766296afc1da"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "bb0132bf25cb49f9b543c00ccf68523e",
+                "feature_name": "ownedClassifier",
+                "feature_value": [
+                    "1880cab0796f444890ecb810ed512dd9",
+                    "8f2e2a8a28ec42be973b4fc2f18b9dc3"
+                ]
+            },
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "1880cab0796f444890ecb810ed512dd9",
+                "feature_name": "ownedPrototype",
+                "feature_value": [
+                    "da49059280434b1089e38712b2f0fd41"
+                ]
+            }
+        ]
+    }
+]
