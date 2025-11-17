@@ -1,0 +1,100 @@
+[
+    {
+        "DELETE": [
+            {
+                "operation": "DEL",
+                "internal_id": "e10da74d24f94466b69cbfb294000190",
+                "container_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<OO:Class xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:OO=\"OO\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmi:id=\"e10da74d24f94466b69cbfb294000190\" name=\"yyyyy\" xmi:version=\"2.0\">\n  <features xsi:type=\"OO:Operation\" xmi:id=\"0731aabc869b4234a9698680c5395102\" name=\"ooo\"/>\n</OO:Class>\n",
+                "element_References": [
+                    {
+                        "feature_name": "package",
+                        "feature_value": "b08c9b9a-0fab-467c-a478-d857468b1605"
+                    },
+                    {
+                        "feature_name": "features",
+                        "feature_value": [
+                            "0731aabc869b4234a9698680c5395102"
+                        ]
+                    }
+                ]
+            },
+            {
+                "operation": "DEL",
+                "internal_id": "0731aabc869b4234a9698680c5395102",
+                "container_id": "e10da74d24f94466b69cbfb294000190",
+                "file_source_xmi": "<?xml version='1.0' encoding='UTF-8'?>\n<OO:Operation xmlns:xmi=\"http://www.omg.org/XMI\" xmlns:OO=\"OO\" xmi:id=\"0731aabc869b4234a9698680c5395102\" name=\"ooo\" xmi:version=\"2.0\"/>\n",
+                "element_References": [
+                    {
+                        "feature_name": "owner",
+                        "feature_value": "e10da74d24f94466b69cbfb294000190"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "ADD": [
+            {
+                "operation": "ADD",
+                "internal_id": "50a85595231d4766bf82de5ce74a2a8f"
+            }
+        ]
+    },
+    {
+        "UPDATE": [
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "feature_name": "contents",
+                "feature_value": [
+                    "4011eb39-8463-4340-bdd0-0ecf0c65d63e",
+                    "553fec6f-33aa-4188-980f-f658ec978232",
+                    "da06a033dea24c2ca47eacd02edb9a30",
+                    "f827d57a89d94edd8883e297ea8888d4",
+                    "5cb45a9457124fbbb4f6f1483cde7c28",
+                    "b8903cc063be4be199eae4b3505d9db3"
+                ]
+            },
+            {
+                "operation": "DEL",
+                "type": "EReference",
+                "internal_id": "b08c9b9a-0fab-467c-a478-d857468b1605",
+                "feature_name": "contents",
+                "feature_value": [
+                    "4011eb39-8463-4340-bdd0-0ecf0c65d63e",
+                    "553fec6f-33aa-4188-980f-f658ec978232",
+                    "da06a033dea24c2ca47eacd02edb9a30",
+                    "f827d57a89d94edd8883e297ea8888d4",
+                    "5cb45a9457124fbbb4f6f1483cde7c28",
+                    "b8903cc063be4be199eae4b3505d9db3",
+                    "e10da74d24f94466b69cbfb294000190"
+                ]
+            },
+            {
+                "operation": "ADD",
+                "type": "other",
+                "internal_id": "da06a033dea24c2ca47eacd02edb9a30",
+                "feature_name": "name",
+                "feature_value": "22222222"
+            },
+            {
+                "operation": "DEL",
+                "type": "other",
+                "internal_id": "da06a033dea24c2ca47eacd02edb9a30",
+                "feature_name": "name",
+                "feature_value": "faculty"
+            },
+            {
+                "operation": "ADD",
+                "type": "EReference",
+                "internal_id": "f827d57a89d94edd8883e297ea8888d4",
+                "feature_name": "features",
+                "feature_value": [
+                    "50a85595231d4766bf82de5ce74a2a8f"
+                ]
+            }
+        ]
+    }
+]
