@@ -8,15 +8,14 @@
     <contents xsi:type="OO:Class" xmi:id="553fec6f-33aa-4188-980f-f658ec978232" name="Course" extendedBy="4011eb39-8463-4340-bdd0-0ecf0c65d63e">
       <features xsi:type="OO:Attribute" xmi:id="b64b0c0b-7735-4b21-ba23-dd20dc3b28a2" name="cName"/>
     </contents>
-    <contents xsi:type="OO:Class" xmi:id="da06a033dea24c2ca47eacd02edb9a30" name="faculty">
+    <contents xsi:type="OO:Class" xmi:id="da06a033dea24c2ca47eacd02edb9a30" name="22222222">
       <features xsi:type="OO:Attribute" xmi:id="6ba971201a874f9c858b5d8cad9f58c8" name="cID"/>
     </contents>
-    <contents xsi:type="OO:Class" xmi:id="f827d57a89d94edd8883e297ea8888d4" name="student"/>
+    <contents xsi:type="OO:Class" xmi:id="f827d57a89d94edd8883e297ea8888d4" name="student">
+      <features xsi:type="OO:Attribute" xmi:id="50a85595231d4766bf82de5ce74a2a8f" name="111111111111"/>
+    </contents>
     <contents xsi:type="OO:Class" xmi:id="5cb45a9457124fbbb4f6f1483cde7c28" name="staff"/>
     <contents xsi:type="OO:Class" xmi:id="b8903cc063be4be199eae4b3505d9db3" name="new"/>
-    <contents xsi:type="OO:Class" xmi:id="e10da74d24f94466b69cbfb294000190" name="yyyyy">
-      <features xsi:type="OO:Operation" xmi:id="0731aabc869b4234a9698680c5395102" name="ooo"/>
-    </contents>
   </contents>
   <contents xsi:type="OO:Class" xmi:id="718fdcc01ee045cd939e8c5ca4107ae8" name="new2"/>
 </OO:Model>
